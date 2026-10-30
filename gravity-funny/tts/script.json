@@ -1,0 +1,20 @@
+{
+  "voice": "am_michael",
+  "speed": 1.1,
+  "lines": [
+    {"id": "a", "scene": "phone",    "text": "Gravity. The reason your phone always lands face first.", "pause": 0.35},
+    {"id": "b", "scene": "phone",    "text": "It's nothing personal. It's just physics.", "pause": 0.5},
+    {"id": "c", "scene": "pull",     "text": "Everything with mass pulls on everything else. Yes, even you pull on the Earth.", "pause": 0.35},
+    {"id": "d", "scene": "pull",     "text": "But Earth pulls back just as hard. It's just heavier, so you do all the moving.", "pause": 0.5},
+    {"id": "e", "scene": "fall",     "text": "Falling things speed up by almost ten meters per second, every second.", "pause": 0.35},
+    {"id": "f", "scene": "fall",     "text": "That's why tripping is embarrassing, but tripping off a cliff is a problem.", "pause": 0.5},
+    {"id": "g", "scene": "newton",   "text": "Isaac Newton got hit by an apple, and discovered gravity.", "pause": 0.35},
+    {"id": "h", "scene": "newton",   "text": "When I get hit by an apple, all I discover is pain.", "pause": 0.5},
+    {"id": "i", "scene": "moon",     "text": "On the Moon, gravity is six times weaker.", "pause": 0.35},
+    {"id": "j", "scene": "moon",     "text": "Finally, you could dunk. Honestly, it's the only place I'd be athletic.", "pause": 0.5},
+    {"id": "k", "scene": "einstein", "text": "Einstein showed that mass bends space, and everything just follows the curve.", "pause": 0.35},
+    {"id": "l", "scene": "einstein", "text": "So technically, you're not falling. You're just following directions.", "pause": 0.5},
+    {"id": "m", "scene": "cta",      "text": "So next time you trip, blame spacetime.", "pause": 0.35},
+    {"id": "n", "scene": "cta",      "text": "Follow for more science. Resistance is futile. Gravity always wins.", "pause": 0.0}
+  ]
+}
