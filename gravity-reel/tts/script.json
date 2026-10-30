@@ -1,0 +1,20 @@
+{
+  "voice": "af_heart",
+  "speed": 1.04,
+  "lines": [
+    {"id": "a", "scene": "hook",   "text": "Why do things fall down, instead of floating away?", "pause": 0.35},
+    {"id": "b", "scene": "hook",   "text": "The answer is gravity.", "pause": 0.55},
+    {"id": "c", "scene": "mass",   "text": "Gravity is a force that pulls every object with mass toward every other object.", "pause": 0.35},
+    {"id": "d", "scene": "mass",   "text": "The more mass something has, the stronger its pull.", "pause": 0.55},
+    {"id": "e", "scene": "earth",  "text": "Earth is so massive that it pulls everything toward its center.", "pause": 0.3},
+    {"id": "f", "scene": "earth",  "text": "That's why people on the other side of the planet don't fall off.", "pause": 0.55},
+    {"id": "g", "scene": "accel",  "text": "Drop anything, and it speeds up by nine point eight meters per second, every single second.", "pause": 0.55},
+    {"id": "h", "scene": "newton", "text": "Isaac Newton realized that the force pulling an apple down, also keeps the Moon in orbit.", "pause": 0.8},
+    {"id": "i", "scene": "moon",   "text": "And here's something wild.", "pause": 0.2},
+    {"id": "j", "scene": "moon",   "text": "Without air, a hammer and a feather fall at exactly the same speed.", "pause": 0.55},
+    {"id": "k", "scene": "einstein", "text": "Einstein went even deeper.", "pause": 0.2},
+    {"id": "l", "scene": "einstein", "text": "He showed that mass bends space and time, and objects simply follow the curve.", "pause": 0.55},
+    {"id": "m", "scene": "cta",    "text": "So you're never really pulled down. You're just following the curve of space.", "pause": 0.3},
+    {"id": "n", "scene": "cta",    "text": "Follow for more science!", "pause": 0.0}
+  ]
+}
